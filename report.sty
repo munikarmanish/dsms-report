@@ -5,7 +5,7 @@
 
 % Break paragraphs
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{1.8em}
+\setlength{\parskip}{1em}
 
 % Math tools
 \usepackage{mathtools}
@@ -16,8 +16,11 @@
 %\usepackage{newtxtext,newtxmath}
 %\usepackage[default]{sourcesanspro}
 %\usepackage[default]{droidsans}
-\usepackage{cmbright}
+%\usepackage{cmbright}
+\usepackage{palatino}
+%\usepackage[urw-garamond]{mathdesign}
 %\usepackage{iwona}
+%\usepackage{gentium}
 \usepackage[scaled=0.9]{inconsolata}
 \usepackage[T1]{fontenc}
 
@@ -26,7 +29,8 @@
 % Options:
 %   singlespacing
 %   onehalfspacing
-\usepackage[onehalfspacing]{setspace}
+%\usepackage[onehalfspacing]{setspace}
+\linespread{1.2}
 
 % Page number placement
 \usepackage{fancyhdr}
@@ -72,10 +76,14 @@
 
 % Compact lists
 \usepackage{mdwlist}
+\usepackage{enumitem}
 
 % Bibliography
 %\usepackage[sorting=none,style=ieee]{biblatex}
 %\addbibresource{main.bib}
+
+% Orphan and widows
+\usepackage[all]{nowidow}
 
 % PDF
 \usepackage{hyperref,caption}
