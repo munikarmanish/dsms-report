@@ -15,11 +15,12 @@
 \pagenumbering{roman} % roman page numbers
 
 \input{sec/titlepage}
-%\input{sec/acknowledgment}
-%\input{sec/abstract}
+\newpage\input{sec/ack}
+\newpage\input{sec/abstract}
 
 {
   \setlength{\parskip}{0em}
+  \linespread{1.0}
   % Table of contents
   \newpage
   \phantomsection\addcontentsline{toc}{section}{Table of Contents}
@@ -40,9 +41,11 @@
   %\input{sec/abbr}
 }
 
-\newpage\input{sec/intro}
-\newpage\input{sec/objectives}
-\newpage\input{sec/literature}
+\clearpage\input{sec/intro}
+\clearpage\input{sec/objectives}
+\clearpage\input{sec/literature}
+\clearpage\input{sec/app}
+\clearpage\input{sec/conclusion}
 %\input{sec/bg}
 %\input{sec/method}
 %\input{sec/case}
