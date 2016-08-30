@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="1324" version="1.1" width="676" xmlns="http://www.w3.org/2000/svg">
+<rect fill="none" height="1296" stroke="#000000" stroke-width="1" width="648" x="14" y="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="277" x2="277" y1="14" y2="1310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="14" y1="14" y2="1310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="277" y1="14" y2="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="277" y1="1310" y2="1310"/>
+<text font-family="Dialog" font-size="12" x="129" y="27">
+Store</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="277" y1="39" y2="39"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="477" x2="477" y1="14" y2="1310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="278" x2="477" y1="14" y2="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="278" x2="477" y1="1310" y2="1310"/>
+<text font-family="Dialog" font-size="12" x="352" y="27">
+Supplier</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="278" x2="477" y1="39" y2="39"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="661" x2="661" y1="14" y2="1310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="478" x2="661" y1="14" y2="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="478" x2="661" y1="1310" y2="1310"/>
+<text font-family="Dialog" font-size="12" x="539" y="27">
+Customer</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="478" x2="661" y1="39" y2="39"/>
+<ellipse cx="134" cy="62" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="374" cy="62" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="558" cy="62" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="159" x="71" y="95"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="161" x="70" y="94"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="159" x="71" y="95"/>
+<text font-family="Dialog" font-size="12" x="82" y="113">
+Check Product Status</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="101" x="327" y="111"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="103" x="326" y="110"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="101" x="327" y="111"/>
+<text font-family="Dialog" font-size="12" x="347" y="129">
+Advertise</text>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="139" x="495" y="103"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="141" x="494" y="102"/>
+<rect fill="#ffffff" height="50" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="139" x="495" y="103"/>
+<text font-family="Dialog" font-size="12" x="515" y="121">
+enter store and</text>
+<text font-family="Dialog" font-size="12" x="506" y="136">
+search for product</text>
+<polyline fill="none" points="558,71 558,102" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="551" x2="558" y1="90" y2="102"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="565" x2="558" y1="90" y2="102"/>
+<polygon fill="#ffffff" points="134,158 150,174 134,190 118,174" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="134,158 150,174 134,190 118,174" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="134,128 134,158" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="127" x2="134" y1="146" y2="158"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="141" x2="134" y1="146" y2="158"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="106" x="319" y="279"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="108" x="318" y="278"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="106" x="319" y="279"/>
+<text font-family="Dialog" font-size="12" x="330" y="297">
+receive order</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="189" x="295" y="351"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="191" x="294" y="350"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="189" x="295" y="351"/>
+<text font-family="Dialog" font-size="12" x="306" y="369">
+manage and send product</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="208" x="214" y="246"/>
+<polyline fill="none" points="150,174 262,174 262,246" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="255" x2="262" y1="234" y2="246"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="269" x2="262" y1="234" y2="246"/>
+<text font-family="Dialog" font-size="12" x="201" y="169">
+not sufficient</text>
+<polyline fill="none" points="374,144 374,246" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="367" x2="374" y1="234" y2="246"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="381" x2="374" y1="234" y2="246"/>
+<polyline fill="none" points="358,252 358,279" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="351" x2="358" y1="267" y2="279"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="365" x2="358" y1="267" y2="279"/>
+<polyline fill="none" points="367,312 367,351" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="360" x2="367" y1="339" y2="351"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="374" x2="367" y1="339" y2="351"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="121" x="159" y="455"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="123" x="158" y="454"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="121" x="159" y="455"/>
+<text font-family="Dialog" font-size="12" x="170" y="473">
+receive product</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="168" x="94" y="518"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="202" x="87" y="559"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="204" x="86" y="558"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="202" x="87" y="559"/>
+<text font-family="Dialog" font-size="12" x="98" y="577">
+Arrange and display product</text>
+<polyline fill="none" points="134,190 134,518" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="127" x2="134" y1="506" y2="518"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="141" x2="134" y1="506" y2="518"/>
+<text font-family="Dialog" font-size="12" x="136" y="359">
+sufficient</text>
+<polyline fill="none" points="334,384 334,422" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="327" x2="334" y1="410" y2="422"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="341" x2="334" y1="410" y2="422"/>
+<polyline fill="none" points="214,488 214,518" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="207" x2="214" y1="506" y2="518"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="221" x2="214" y1="506" y2="518"/>
+<polyline fill="none" points="182,524 182,559" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="547" y2="559"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="547" y2="559"/>
+<polyline fill="none" points="134,70 134,95" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="127" x2="134" y1="83" y2="95"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="141" x2="134" y1="83" y2="95"/>
+<polyline fill="none" points="373,69 373,111" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="366" x2="373" y1="99" y2="111"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="380" x2="373" y1="99" y2="111"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="101" x="511" y="303"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="103" x="510" y="302"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="101" x="511" y="303"/>
+<text font-family="Dialog" font-size="12" x="523" y="321">
+Buy product</text>
+<polyline fill="none" points="561,153 561,302" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="554" x2="561" y1="290" y2="302"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="568" x2="561" y1="290" y2="302"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="101" x="135" y="631"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="103" x="134" y="630"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="101" x="135" y="631"/>
+<text font-family="Dialog" font-size="12" x="148" y="649">
+Sell Product</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="101" x="127" y="759"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="103" x="126" y="758"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="101" x="127" y="759"/>
+<text font-family="Dialog" font-size="12" x="145" y="777">
+Create Bill</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="78" x="519" y="887"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="80" x="518" y="886"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="78" x="519" y="887"/>
+<text font-family="Dialog" font-size="12" x="535" y="905">
+Pay Bill</text>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="176" x="111" y="991"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="178" x="110" y="990"/>
+<rect fill="#ffffff" height="50" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="176" x="111" y="991"/>
+<text font-family="Dialog" font-size="12" x="122" y="1009">
+store transaction record</text>
+<text font-family="Dialog" font-size="12" x="160" y="1024">
+to database</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="125" x="503" y="1103"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="127" x="502" y="1102"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="125" x="503" y="1103"/>
+<text font-family="Dialog" font-size="12" x="514" y="1121">
+Receive product</text>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="101" x="511" y="1183"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="103" x="510" y="1182"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="101" x="511" y="1183"/>
+<text font-family="Dialog" font-size="12" x="524" y="1201">
+Leave store</text>
+<ellipse cx="562" cy="1274" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="562" cy="1274" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="561" cy="1273" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="164" x="103" y="1119"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="166" x="102" y="1118"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="164" x="103" y="1119"/>
+<text font-family="Dialog" font-size="12" x="114" y="1137">
+update product status</text>
+<polyline fill="none" points="182,592 182,631" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="619" y2="631"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="619" y2="631"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="456" x="142" y="702"/>
+<polyline fill="none" points="557,336 557,702" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="550" x2="557" y1="690" y2="702"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="564" x2="557" y1="690" y2="702"/>
+<polyline fill="none" points="182,664 182,702" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="690" y2="702"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="690" y2="702"/>
+<polyline fill="none" points="182,708 182,759" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="747" y2="759"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="747" y2="759"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="496" x="110" y="838"/>
+<polyline fill="none" points="182,792 182,838" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="826" y2="838"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="826" y2="838"/>
+<polyline fill="none" points="182,844 182,942" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="175" x2="182" y1="930" y2="942"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="189" x2="182" y1="930" y2="942"/>
+<polyline fill="none" points="558,844 558,887" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="875" y2="887"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="875" y2="887"/>
+<polyline fill="none" points="519,902 230,902 230,942" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="223" x2="230" y1="930" y2="942"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="237" x2="230" y1="930" y2="942"/>
+<polyline fill="none" points="198,1040 198,1062" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="191" x2="198" y1="1050" y2="1062"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="205" x2="198" y1="1050" y2="1062"/>
+<polyline fill="none" points="558,920 558,1102" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="1090" y2="1102"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="1090" y2="1102"/>
+<polyline fill="none" points="558,1136 558,1183" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="1171" y2="1183"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="1171" y2="1183"/>
+<polyline fill="none" points="561,1216 561,1262" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="554" x2="561" y1="1250" y2="1262"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="568" x2="561" y1="1250" y2="1262"/>
+<polyline fill="none" points="103,1134 30,1134 30,174 118,174" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="106" x2="118" y1="181" y2="174"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="106" x2="118" y1="167" y2="174"/>
+<text font-family="Dialog" font-size="12" x="33" y="641">
+update and check</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="136" x="126" y="942"/>
+<polyline fill="none" points="202,948 202,991" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="195" x2="202" y1="979" y2="991"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="209" x2="202" y1="979" y2="991"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="416" x="182" y="1062"/>
+<polyline fill="none" points="158,1040 158,1119" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="151" x2="158" y1="1107" y2="1119"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="165" x2="158" y1="1107" y2="1119"/>
+<polyline fill="none" points="558,1068 558,1103" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="1091" y2="1103"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="1091" y2="1103"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="160" x="206" y="422"/>
+<polyline fill="none" points="246,428 246,455" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="239" x2="246" y1="443" y2="455"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="253" x2="246" y1="443" y2="455"/>
+<polyline fill="none" points="350,428 350,454 470,454 470,126 427,126" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="439" x2="427" y1="119" y2="126"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="439" x2="427" y1="133" y2="126"/>
+</svg>

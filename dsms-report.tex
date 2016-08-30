@@ -14,38 +14,50 @@
 \begin{document}
 \pagenumbering{roman} % roman page numbers
 
+\clearpage
 \input{sec/titlepage}
-\newpage\input{sec/ack}
-\newpage\input{sec/abstract}
+\clearpage
+\input{sec/ack}
+\clearpage
+\input{sec/abstract}
 
 {
-  \setlength{\parskip}{0em}
-  \linespread{1.0}
+  \setlength{\parskip}{0em}\linespread{1.0}
+
   % Table of contents
-  \newpage
+  \clearpage
   \phantomsection\addcontentsline{toc}{section}{Table of Contents}
   \renewcommand\contentsname{Table of Contents} % This will change heading text
   \tableofcontents
 
   % List of figures
-  \newpage
+  \clearpage
   \phantomsection\addcontentsline{toc}{section}{List of Figures}
   \listoffigures
 
   % List of tables
-  \phantomsection\addcontentsline{toc}{section}{List of Tables}
-  \listoftables
+  %\phantomsection\addcontentsline{toc}{section}{List of Tables}
+  %\listoftables
 
   % List of abbreviations
   %\newpage
   %\input{sec/abbr}
 }
 
-\clearpage\input{sec/intro}
-\clearpage\input{sec/objectives}
-\clearpage\input{sec/literature}
-\clearpage\input{sec/app}
-\clearpage\input{sec/conclusion}
+\clearpage
+\input{sec/intro}
+\clearpage
+\input{sec/objectives}
+\clearpage
+\input{sec/literature}
+\clearpage
+\input{sec/dev}
+\clearpage
+\input{sec/implementation}
+\clearpage
+\input{sec/app}
+\clearpage
+\input{sec/conclusion}
 %\input{sec/bg}
 %\input{sec/method}
 %\input{sec/case}
