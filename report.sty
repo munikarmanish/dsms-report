@@ -1,0 +1,86 @@
+\ProvidesPackage{report}
+
+% Geometry
+\usepackage[left=3.5cm,right=2cm,top=3cm,bottom=3cm]{geometry}
+
+% Break paragraphs
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.8em}
+
+% Math tools
+\usepackage{mathtools}
+
+% Fonts
+%\usepackage{mathptmx}
+%\usepackage{txfonts}
+%\usepackage{newtxtext,newtxmath}
+%\usepackage[default]{sourcesanspro}
+%\usepackage[default]{droidsans}
+\usepackage{cmbright}
+%\usepackage{iwona}
+\usepackage[scaled=0.9]{inconsolata}
+\usepackage[T1]{fontenc}
+
+% Line spacing
+% ------------
+% Options:
+%   singlespacing
+%   onehalfspacing
+\usepackage[onehalfspacing]{setspace}
+
+% Page number placement
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+%\rhead{}
+\lfoot{}
+\cfoot{}
+\rfoot{\thepage}
+
+% Section heading before/after spacing
+%\usepackage[explicit]{titlesec}
+%\titlespacing{\section}{0pt}{3em plus 0pt minus 5pt}{2em plus 0pt minus 5pt}
+%\titlespacing{\subsection}{0pt}{1em plus 0pt minus 2pt}{1em plus 0pt minus 2pt}
+%\titlespacing{\subsubsection}{0pt}{1em plus 0pt minus 2pt}{1em plus 0pt minus 2pt}
+%\titleformat{\section}{\bfseries\large}{\thesection.}{1em}{\MakeUppercase{#1}}
+%\titleformat{\subsection}{\bfseries\normalsize}{\thesubsection.}{1em}{#1}
+%\titleformat{\subsubsection}{\bfseries\normalsize}{\thesubsubsection.}{1em}{#1}
+
+% Spacing before/after equations
+%\AtBeginDocument{
+  %\setlength\abovedisplayskip{1em plus 4pt minus 5 pt}
+  %\setlength\belowdisplayskip{1em plus 4pt minus 5 pt}
+  %\setlength\abovedisplayshortskip{0.5em plus 4pt minus 5 pt}
+  %\setlength\belowdisplayshortskip{0.5em plus 4pt minus 5 pt}
+%}
+
+% Float numbering
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+\counterwithin{equation}{section}
+
+% Algorithms
+\usepackage[section]{algorithm}
+\usepackage{algorithmic}
+
+% Colors
+\usepackage[dvipsnames]{xcolor}
+
+% Compact lists
+\usepackage{mdwlist}
+
+% Bibliography
+%\usepackage[sorting=none,style=ieee]{biblatex}
+%\addbibresource{main.bib}
+
+% PDF
+\usepackage{hyperref,caption}
+\hypersetup{hidelinks,
+  pdftitle={Departmental Store Management System},
+  pdfauthor={Manish Munikar},
+  pdfsubject={OOAD Project Report},
+}
